@@ -16,7 +16,7 @@ const people = [
 				poster_path: '/5x00yQZ3Mcz7duwMKc9GE8oZjFf.jpg',
 				original_language: 'en',
 				original_title: 'Spider-Man: Homecoming',
-				genre_ids: [ 28, 12, 878, 18 ],
+				genre_ids: [28, 12, 878, 18],
 				backdrop_path: '/vc8bCGjdVp0UbMNLzHnHSLRbBWQ.jpg',
 				adult: false,
 				overview:
@@ -34,7 +34,7 @@ const people = [
 				poster_path: '/mMltbSxwEdNE4Cv8QYLpzkHWTDo.jpg',
 				original_language: 'en',
 				original_title: 'Toy Story 3',
-				genre_ids: [ 16, 10751, 35 ],
+				genre_ids: [16, 10751, 35],
 				backdrop_path: '/y2qAjM37QgatWeG84DDtwsZuMW.jpg',
 				adult: false,
 				overview:
@@ -52,7 +52,7 @@ const people = [
 				poster_path: '/q0R4crx2SehcEEQEkYObktdeFy.jpg',
 				original_language: 'en',
 				original_title: 'Minions',
-				genre_ids: [ 10751, 16, 12, 35 ],
+				genre_ids: [10751, 16, 12, 35],
 				backdrop_path: '/wiSIfl9FnXYGXzUKji7Muc3Oj3o.jpg',
 				adult: false,
 				overview:
@@ -79,7 +79,7 @@ const people = [
 				poster_path: '/tpoVEYvm6qcXueZrQYJNRLXL88s.jpg',
 				original_language: 'en',
 				original_title: 'Edge of Tomorrow',
-				genre_ids: [ 28, 878 ],
+				genre_ids: [28, 878],
 				backdrop_path: '/7mgKeg18Qml5nJQa56RBZO7dIu0.jpg',
 				adult: false,
 				overview:
@@ -97,7 +97,7 @@ const people = [
 				poster_path: '/hmOzkHlkGvi8x24fYpFSnXvjklv.jpg',
 				original_language: 'en',
 				original_title: 'Oblivion',
-				genre_ids: [ 28, 878, 12, 9648 ],
+				genre_ids: [28, 878, 12, 9648],
 				backdrop_path: '/8TE77jL2e4zdERpv8hnBAHUmFRx.jpg',
 				adult: false,
 				overview:
@@ -115,7 +115,7 @@ const people = [
 				poster_path: '/s58mMsgIVOFfoXPtwPWJ3hDYpXf.jpg',
 				original_language: 'en',
 				original_title: 'Mission: Impossible - Ghost Protocol',
-				genre_ids: [ 28, 53, 12 ],
+				genre_ids: [28, 53, 12],
 				backdrop_path: '/pc7a2qrIkIxzqWGqcexd3mHzIxy.jpg',
 				adult: false,
 				overview:
@@ -142,7 +142,7 @@ const people = [
 				poster_path: '/u6QBDGUCOEMRekna95ip2MxplbQ.jpg',
 				original_language: 'en',
 				original_title: 'The Devil Wears Prada',
-				genre_ids: [ 35, 18, 10749 ],
+				genre_ids: [35, 18, 10749],
 				backdrop_path: '/2veJf7wcs1hvJGCQRFTwm37djMW.jpg',
 				adult: false,
 				overview:
@@ -160,7 +160,7 @@ const people = [
 				poster_path: '/wnUAcUrMRGPPZUDroLeZhSjLkuu.jpg',
 				original_language: 'en',
 				original_title: 'A.I. Artificial Intelligence',
-				genre_ids: [ 18, 878, 12 ],
+				genre_ids: [18, 878, 12],
 				backdrop_path: '/idVdfyi51JtG7N5DPW6qeSankyV.jpg',
 				adult: false,
 				overview:
@@ -178,7 +178,7 @@ const people = [
 				poster_path: '/4g19qQ4pfQz6nlVctA0q3y7Dieg.jpg',
 				original_language: 'en',
 				original_title: 'The Giver',
-				genre_ids: [ 18, 878 ],
+				genre_ids: [18, 878],
 				backdrop_path: '/qqK1tYQieFylsbtYtHLs9CI48IY.jpg',
 				adult: false,
 				overview:
@@ -205,7 +205,7 @@ const people = [
 				poster_path: '/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg',
 				original_language: 'en',
 				original_title: 'Doctor Strange',
-				genre_ids: [ 28, 12, 14, 878 ],
+				genre_ids: [28, 12, 14, 878],
 				backdrop_path: '/tFI8VLMgSTTU38i8TIsklfqS9Nl.jpg',
 				adult: false,
 				overview:
@@ -223,7 +223,7 @@ const people = [
 				poster_path: '/22ngurXbLqab7Sko6aTSdwOCe5W.jpg',
 				original_language: 'en',
 				original_title: 'Sherlock Holmes',
-				genre_ids: [ 28, 12, 80, 9648 ],
+				genre_ids: [28, 12, 80, 9648],
 				backdrop_path: '/8oOjtbJMPLVAIsQdxcgQ46Pkmhz.jpg',
 				adult: false,
 				overview:
@@ -241,7 +241,7 @@ const people = [
 				poster_path: '/7OFqsVuS6DlVM10GUD72vCGpQm9.jpg',
 				original_language: 'en',
 				original_title: 'Sherlock Holmes: A Game of Shadows',
-				genre_ids: [ 12, 28, 80, 9648 ],
+				genre_ids: [12, 28, 80, 9648],
 				backdrop_path: '/3jmMRaO8WMjKsf1LWzo6Q6E5zMP.jpg',
 				adult: false,
 				overview:
